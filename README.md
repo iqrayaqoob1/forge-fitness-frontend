@@ -56,32 +56,6 @@ Forge Fitness is a responsive gym website built with HTML, CSS, and JavaScript. 
 
 ---
 
-##  Project Structure
-
-```
-forge-fitness-frontend/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
-
----
-
-##  Getting Started
-
-### Clone the repository
-
-```bash
-git clone https://github.com/iqrayaqoob1/forge-fitness-frontend.git
-```
-
-### Open the project
-
-Simply open **index.html** in your browser.
-
----
 
 ##  Backend Repository
 
@@ -108,16 +82,5 @@ https://github.com/iqrayaqoob1/forge-fitness-backend
 
 **Iqra Yaqoob**
 
-Frontend Developer
-
-GitHub:
-https://github.com/iqrayaqoob1
-
-Email:
-iqra.yaqoob162@gmail.com
-
 ---
 
-## 📄 License
-
-This project was developed for educational purposes as part of the DecodeLabs Frontend Development Program.
